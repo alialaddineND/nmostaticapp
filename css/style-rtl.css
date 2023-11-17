@@ -1,0 +1,183 @@
+html{
+  direction: rtl;
+}
+
+header.nmo-sttc-header{
+  direction: ltr;
+}
+
+header.nmo-sttc-header .header-elem.nmo-langsel ul li.en{
+  display: block;
+}
+header.nmo-sttc-header .header-elem.nmo-langsel ul li.ar{
+  display: none;
+}
+
+header.nmo-sttc-header .header-elems .nmo-menu ul li a::after{
+  right: 0;
+  left: auto;
+}
+
+.nmo-title-mini h2, .nmo-title-mini h1 {
+  padding: 0 32px 0 0;
+}
+
+.nmo-title-mini h2::before, .nmo-title-mini h1::before{
+  right: 0;
+  left: auto;
+}
+
+.nmo-btn-wrap.al-right{
+  text-align: left;
+}
+
+.nmo-btn span.nmo-btn-icn svg {
+  transform: rotate(270deg);
+}
+
+.nmo-wrap2-left{
+  padding-right: 60px;
+}
+
+.nmo-wrap2-right{
+  padding-left: 60px;
+}
+
+.nmo-hafwrap-left{
+  padding-right: 25px;
+}
+
+.nmo-hafwrap-right{
+  padding-left: 25px;
+}
+
+.nmo-btn-wrap.al-left{
+  text-align: right;
+}
+
+.featured-initiative .fini-txts .fini-title {
+  font-size: 46px;
+}
+
+.nmo-imgtxt-blks .abt-shortcut-wrap .shrct-txt {
+  padding: 0 24px 0 0;
+}
+
+.nmo-view.chairman .chm-blks .chm-blk.txts {
+  padding: 0 45px 0 0;
+}
+
+.nmo-view.chairman .chm-blks .chm-blk.txts .chm-sign{
+  padding: 0 50px 0 0;
+}
+
+.nmo-view.chairman .chm-blks .chm-blk.txts .chm-sign::before{
+  right: 0;
+  left: auto;
+}
+
+.role-row .role-row-wrap span.row-txt {
+  padding: 0 7px 0 0;
+}
+
+.role-row .role-row-wrap span.row-icn svg {
+  transform: rotate(180deg);
+}
+
+.initv-list .intv-row .intv-row-blks .intv-txts {
+  padding: 0 20px 0 0;
+}
+
+footer.nmo-sttc-footer .nf-blks .nf-blk.contactinf .cinf-social ul li{
+  padding: 0 0 0 7px;
+}
+
+footer.nmo-sttc-footer .nf-blks .nf-blk.sitemap .sitemap-links {
+  padding: 0 20px 0 0;
+  border-left: none;
+  border-right: 1px solid #fff;
+}
+
+footer.nmo-sttc-footer .nf-blks .nf-blk.sitemap ul li a span.smap-icn svg{
+  transform: rotate(180deg);
+  right: 0;
+  left: auto;
+}
+
+footer.nmo-sttc-footer .nf-blks .nf-blk.sitemap ul li a:hover span.smap-icn svg {
+  right: 4px;
+  left: auto;
+}
+
+footer.nmo-sttc-footer .nf-blks .nf-blk.sitemap ul li a span.smap-txt{
+  padding: 0 8px 0 0;
+}
+
+.nmo-read-more-wrap{
+  right: 20px;
+  left: auto;
+}
+
+.nmo-read-more span.icn{
+  padding: 0 7px 0 0;
+}
+
+.contact-blks .contact-blk.txt{
+  padding: 0 0 0 48px;
+}
+
+.input-wrap.terms .nmo-check{
+  padding-right: 35px;
+  padding-left: 0;
+}
+
+.input-wrap.terms .nmo-check .checkmark{
+  right: 0;
+  left: auto;
+}
+
+.share-wrap .share-cta{
+  padding: 0 0 0 15px;
+}
+
+.nmo-sec.nmo-hero.intv-hero .share-wrap{
+  right: 60px;
+  left: auto;
+}
+
+footer.nmo-sttc-footer .legal-cr .cr{
+  padding: 0 0 0 35px;
+}
+
+.home-flex-blks .abt-feat-btn.flxblk.right {
+  padding: 0 40px 0 0;
+}
+
+.nmo-sec.article-info .article-date-share .article-date-share-blk.share{
+  text-align: left;
+}
+
+.header-elem.nmo-menu {
+  direction: rtl;
+  text-align: left;
+}
+
+.nmo-hero-blks .nmo-hero-blk.img img{
+  float: left;
+}
+
+.contact-blks .contact-blk.txt .contact-info-list .inf-title span {
+  padding: 0 0 12px 12px;
+}
+
+.nmo-sec.intv-body .share-wrap{
+  text-align: left;
+}
+
+.nmo-sec.intv-body .share-wrap .socialJS a {
+  margin: 0 12px 0 0;
+}
+
+.nmo-view.initiatives .initv-list .intv-row .intv-row-blks .intv-txts {
+  text-align: right;
+}

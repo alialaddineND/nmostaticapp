@@ -1,0 +1,70 @@
+[19-Sep-2023 19:26:13 UTC] PHP Warning:  include(config/header.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:26:13 UTC] PHP Warning:  include(): Failed opening 'config/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:26:13 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 7
+[19-Sep-2023 19:26:13 UTC] PHP Warning:  include(config/footer.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:26:13 UTC] PHP Warning:  include(): Failed opening 'config/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:26:26 UTC] PHP Warning:  include(config/header.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:26:26 UTC] PHP Warning:  include(): Failed opening 'config/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:26:26 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 7
+[19-Sep-2023 19:26:26 UTC] PHP Warning:  include(config/footer.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:26:26 UTC] PHP Warning:  include(): Failed opening 'config/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:26:35 UTC] PHP Warning:  include(config/header.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 5
+[19-Sep-2023 19:26:35 UTC] PHP Warning:  include(): Failed opening 'config/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 5
+[19-Sep-2023 19:26:35 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 7
+[19-Sep-2023 19:26:35 UTC] PHP Warning:  include(config/footer.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 9
+[19-Sep-2023 19:26:35 UTC] PHP Warning:  include(): Failed opening 'config/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 9
+[19-Sep-2023 19:27:25 UTC] PHP Warning:  include(config/header.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 5
+[19-Sep-2023 19:27:25 UTC] PHP Warning:  include(): Failed opening 'config/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 5
+[19-Sep-2023 19:27:25 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 7
+[19-Sep-2023 19:27:25 UTC] PHP Warning:  include(config/footer.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 9
+[19-Sep-2023 19:27:25 UTC] PHP Warning:  include(): Failed opening 'config/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 9
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(config/header.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 5
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(): Failed opening 'config/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 5
+[19-Sep-2023 19:27:27 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 7
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(config/footer.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 9
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(): Failed opening 'config/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 9
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(config/header.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 5
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(): Failed opening 'config/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 5
+[19-Sep-2023 19:27:27 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 7
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(config/footer.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 9
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(): Failed opening 'config/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 9
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(config/header.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 5
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(): Failed opening 'config/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 5
+[19-Sep-2023 19:27:27 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 7
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(config/footer.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 9
+[19-Sep-2023 19:27:27 UTC] PHP Warning:  include(): Failed opening 'config/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/contact.php on line 9
+[19-Sep-2023 19:27:35 UTC] PHP Warning:  include(/config/header.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:27:35 UTC] PHP Warning:  include(): Failed opening '/config/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:27:35 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 7
+[19-Sep-2023 19:27:35 UTC] PHP Warning:  include(/config/footer.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:27:35 UTC] PHP Warning:  include(): Failed opening '/config/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:27:37 UTC] PHP Warning:  include(/config/header.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:27:37 UTC] PHP Warning:  include(): Failed opening '/config/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:27:37 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 7
+[19-Sep-2023 19:27:37 UTC] PHP Warning:  include(/config/footer.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:27:37 UTC] PHP Warning:  include(): Failed opening '/config/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:28:15 UTC] PHP Warning:  include(/config/header.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:28:15 UTC] PHP Warning:  include(): Failed opening '/config/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:28:15 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 7
+[19-Sep-2023 19:28:15 UTC] PHP Warning:  include(/config/footer.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:28:15 UTC] PHP Warning:  include(): Failed opening '/config/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:28:16 UTC] PHP Warning:  include(/config/header.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:28:16 UTC] PHP Warning:  include(): Failed opening '/config/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 5
+[19-Sep-2023 19:28:16 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 7
+[19-Sep-2023 19:28:16 UTC] PHP Warning:  include(/config/footer.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:28:16 UTC] PHP Warning:  include(): Failed opening '/config/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 9
+[19-Sep-2023 19:28:50 UTC] PHP Warning:  include(/config/lang.php): failed to open stream: No such file or directory in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 2
+[19-Sep-2023 19:28:50 UTC] PHP Warning:  include(): Failed opening '/config/lang.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 2
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 24
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _url_lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 42
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _url_lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 49
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _strings in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 49
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _url_lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 50
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _strings in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 50
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _url_lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 51
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _strings in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 51
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _url_lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 52
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _strings in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 52
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _lang_redirect in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 58
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _lang_redirect in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/config/header.php on line 59
+[19-Sep-2023 19:28:50 UTC] PHP Notice:  Undefined variable: _lang in /home/vx1dw76bjlxn/public_html/projects/nmo/static-website/views/index.php on line 7
